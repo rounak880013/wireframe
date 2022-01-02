@@ -1,0 +1,261 @@
+.Group_9840{
+    position: absolute;
+  left: 42px;
+  top: 60px;
+  height: 61px;
+  width: 156px;
+  border: solid black 1px;
+}
+.Loans_Metrics{
+  height: 19px;
+  width: 155px;
+  border: solid black 1px;
+}
+.Loans_owners{
+    position: absolute;
+    left: 1px;
+    top: 31px;
+    height: 10px;
+    width: 73px;
+    border: solid black 1px;
+  }
+.Rectangle_16837{
+    position: absolute;
+    left: 0px;
+    top: 46px;
+    height: 5px;
+    width: 33px;
+    border: solid black 1px;
+}
+.qwert_1{
+    position: absolute;
+    left: 73px;
+    top: 397px;
+    height: 241px;
+    width: 245px;
+    border: solid black 1px;
+    display: flex;
+}
+.P_A{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 240px;
+    width: 25px;
+    background-color: #FF896B;
+    z-index: 1;
+}
+.P_B{
+    position: absolute;
+    left: 114px;
+    top: 79px;
+    height: 161px;
+    width: 25px;
+    background-color: #7467F0;
+    z-index: 1;
+}
+.P_C{
+    position: absolute;
+    left: 220px;
+    top: 159px;
+    height: 82px;
+    width: 25px;
+    background-color: #C272FF;
+    z-index: 1;
+}
+.Group_17{
+    position: absolute;
+    left: 1381px;
+    top: 185px;
+    height: 16px;
+    width: 243px;
+    border: solid black 1px;
+}
+.Group_19{
+    position: absolute;
+    left: -8px;
+    top: 0px;
+    height: 16px;
+    width: 79px;
+    border: solid black 1px;
+    display: flex;
+}
+.Group_13{
+    position: absolute;
+    left: 93px;
+    top: 0px;
+    height: 16px;
+    width: 79px;
+    border: solid black 1px;
+    display: flex;
+}
+.Group_14{
+    position: absolute;
+    left: 183px;
+    top: 0px;
+    height: 16px;
+    width: 60px;
+    border: solid black 1px;
+    display: flex;
+}
+.A_1_1{
+    position: absolute;
+    top: 8px;
+    height: 7px;
+    width:8px;
+    background-color: #309FC9;
+    border: solid #309FC9 1px;
+}
+.A_1_2{
+    position: absolute;
+    left: 9px;
+    height: 16px;
+    width:63px;
+    border: solid black 1px;
+}
+.A_2_1{
+    position: absolute;
+    top: 8px;
+    height: 7px;
+    width:8px;
+    background-color: #F36F4E;
+    border: solid #F36F4E 1px;
+}
+.A_2_2{
+    position: absolute;
+    left: 9px;
+    height: 16px;
+    width:44px;
+    border: solid black 1px;
+}
+.A_3_1{
+    position: absolute;
+    top: 8px;
+    height: 7px;
+    width:8px;
+    background-color: #AE4AFA;
+    border: solid #AE4AFA 1px;
+}
+.A_3_2{
+    position: absolute;
+    left: 9px;
+    height: 16px;
+    width:63px;
+    border: solid black 1px;
+}
+.y_axis{
+    position: absolute;
+    left: 1635px;
+    top: 395px;
+    height: 250px;
+    width: 9px;
+    border: solid black 1px;
+}
+.y_1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 10px;
+    width: 6px;
+    border: solid black 1px;
+}
+.y_2{
+    position: absolute;
+    left: 0px;
+    top: 81px;
+    height: 10px;
+    width: 6px;
+    border: solid black 1px;
+}
+.y_3{
+    position: absolute;
+    left: 0px;
+    top: 161px;
+    height: 10px;
+    width: 6px;
+    border: solid black 1px;
+}
+.y_4{
+    position: absolute;
+    left: 0px;
+    top: 240px;
+    height: 10px;
+    width: 6px;
+    border: solid black 1px;
+}
+.x_axis{
+    position: absolute;
+    left: 43px;
+    top: 742px;
+    height: 19px;
+    width: 287px;
+    border: solid black 1px;
+}
+.Party_A{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 19px;
+    width: 63px;
+    border: solid black 1px;
+}
+.Party_B{
+    position: absolute;
+    left: 111px;
+    top: 0px;
+    height: 19px;
+    width: 63px;
+    border: solid black 1px;
+}
+.Party_C{
+    position: absolute;
+    left: 224px;
+    top: 0px;
+    height: 19px;
+    width: 63px;
+    border: solid black 1px;
+}
+.lines{
+    position: absolute;
+    left: 39px;
+    top: 397px;
+    height: 240px;
+    width: 1579px;
+    border: solid black 1px;
+}
+.line1{
+    position: absolute;
+    Left:0px;
+    Top:0px;
+    Width:1579px;
+    Height:0px;
+    opacity: 0.1;
+    border-top: solid black 1px;
+}
+.line2{
+    position: absolute;
+    Left:0px;
+    Top:80px;
+    Width:1579px;
+    Height:0px;
+    opacity: 0.1;
+    border-top: solid black 1px;
+}
+.line3{
+    position: absolute;
+    Left:0px;
+    Top:160px;
+    Width:1579px;
+    Height:0px;
+    opacity: 0.1;
+    border-top: solid black 1px;
+}
+.line4{
+    position: absolute;
+    Left:0px;
+    Top:240px;
+    Width:1579px;
+    Height:0px;
+    opacity: 0.1;
+    border-top: solid black 1px;
+}

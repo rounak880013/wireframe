@@ -1,0 +1,239 @@
+.Group_9857{
+    position: absolute;
+  left: 933px;
+  top: 30px;
+  height: 44px;
+  width: 87px;
+  border: solid black 1px;
+}
+.Total_Value{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 15px;
+    width: 87px;
+    border: solid black 1px;
+}
+.Value{
+    position: absolute;
+    left: 1px;
+    top: 26px;
+    height: 18px;
+    width: 57px;
+    border: solid black 1px;
+}
+.Group_9837{
+  position: absolute;
+  left: 797px;
+  top: 30px;
+  height: 43px;
+  width: 98px;
+  border: solid black 1px;
+}
+.Total_Shares{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 15px;
+    width: 98px;
+    border: solid black 1px;
+}
+.Shares{
+    position: absolute;
+    left: 1px;
+    top: 28px;
+    height: 15px;
+    width: 42px;
+    border: solid black 1px;
+}
+.Group_9835{
+    position: absolute;
+    left: 29px;
+    top: 31px;
+    height: 70px;
+    width: 247px;
+    border: solid black 1px;
+}
+.Your_company_information{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 21px;
+    width: 247px;
+    border: solid black 1px;
+}
+.Main_metrics{
+    position: absolute;
+    left: 0px;
+    top: 32px;
+    height: 13px;
+    width: 91px;
+    border: solid black 1px;
+}
+.Rectangle_16837A{
+    position: absolute;
+    left: 0px;
+    top: 65px;
+    height: 5px;
+    width: 33px;
+    border: solid black 1px;
+}
+.Group_9836{
+    position: absolute;
+    left: 54px;
+    top: 266px;
+    height: 306px;
+    width: 945px;
+}
+.Horizontal_Line1{
+    position: absolute;
+    Left:0px;
+    Top:41px;
+    Width:942px;
+    Height:2px;
+    opacity: 1;
+    border-top: solid black 1px;
+}
+.Horizontal_Line2{
+    position: absolute;
+    Left:0px;
+    Top:326px;
+    Width:942px;
+    Height:2px;
+    opacity: 1;
+    border-top: solid black 1px;
+}
+.Vertical_Line1{
+    position: absolute;
+    Left:242px;
+    Top:41px;
+    Width:3px;
+    Height:284px;
+    opacity: 1;
+    border: solid black 1px;
+    z-index: 1;
+}
+.Vertical_Line2{
+    position: absolute;
+    Left: 376px;
+    Top:41px;
+    Width:2px;
+    Height:284px;
+    opacity: 1;
+    border: solid black 1px;
+    z-index: 0;
+}
+.Vertical_Line3{
+    position: absolute;
+    Left: 545px;
+    Top:41px;
+    Width:2px;
+    Height:284px;
+    opacity: 1;
+    border: solid black 1px;
+    z-index: 0;
+}
+.Vertical_Line4{
+    position: absolute;
+    Left: 715px;
+    Top:41px;
+    Width:2px;
+    Height:284px;
+    opacity: 1;
+    border: solid black 1px;
+    z-index: 0;
+}
+.Graph_box{
+    position: absolute;
+    Left:245px;
+    Top:41px;
+    height: 284px;
+    width: 697px;
+    display: flex;
+    flex-direction: column;
+}
+.Percentage{
+    position: absolute;
+    Left:319px;
+    Top:266px;
+    height: 11px;
+    width: 680px;
+    border: solid black 1px;
+    display: flex;
+}
+.x1_axis{
+    position: absolute;
+    Left:29px;
+    Top:77px;
+    height: 229px;
+    width: 88px;
+    border: solid black 1px;
+}
+.Shareholder_A{
+    position: absolute;
+    Left:0px;
+    Top:0px;
+    height: 11px;
+    width: 88px;
+    border: solid black 1px;
+}
+.Shareholder_B{
+    position: absolute;
+    Left:0px;
+    Top:69px;
+    height: 11px;
+    width: 87px;
+    border: solid black 1px;
+}
+.Shareholder_C{
+    position: absolute;
+    Left:0px;
+    Top:143px;
+    height: 11px;
+    width: 88px;
+    border: solid black 1px;
+}
+.Shareholder_D{
+    position: absolute;
+    Left:0px;
+    Top:217px;
+    height: 11px;
+    width: 88px;
+    border: solid black 1px;
+}
+.Percentage_0{
+    Left:0px;
+    Top:0px;
+    height: 11px;
+    width: 18px;
+    border: solid black 1px;
+    z-index: 2;
+}
+.Percentage_25{
+    margin-left: auto;
+    height: 11px;
+    width: 18px;
+    border: solid black 1px;
+    z-index: 2;
+}
+.Percentage_50{
+    margin-left: auto;
+    height: 11px;
+    width: 18px;
+    border: solid black 1px;
+    z-index: 2;
+}
+.Percentage_75{
+    margin-left: auto;
+    height: 11px;
+    width: 18px;
+    border: solid black 1px;
+    z-index: 2;
+}
+.Percentage_100{
+    margin-left: auto;
+    height: 11px;
+    width: 18px;
+    border: solid black 1px;
+    z-index: 2;
+}

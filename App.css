@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.page{
+  display: flex;
+}
+.Left_Menu{
+  height: 2018px;
+  width: 76px;
+  border: solid black 1px;
+  display: flex;
+}
+.top{
+  position: absolute;
+  left: 160px;
+  top: 25px;
+  height: 33px;
+  width: 1632px;
+  border: solid black 1px;
+}
+
+.Group_76{
+  position: absolute;
+  left: 1201px;
+  top: -4px;
+  height: 41px;
+  display: flex;
+}
+.BAChain{
+  position: absolute;
+  font-size: 18px;
+  font-family:Montserrat-Bold;
+  text-align:left;
+  left: 0px;
+  top: 0px;
+  height: 15px;
+  width: 68px;
+  border: solid black 1px;
+}
+.Transpency{
+  position: absolute;
+  left: 0px;
+  top: 23px;
+  height: 10px;
+  width: 170px;
+  border: solid black 1px;
+}
+.Ellipse_211{
+  height: 41px;
+  width: 40px;
+  border: solid black 1px;
+}
+.qwert{
+  position: absolute;
+  left: 57px;
+  top: 13px;
+  height: 13px;
+  width: 71px;
+  border: solid black 1px;
+}
+.middle{
+  position: absolute;
+  left: 149px;
+  top: 219px;
+  display: flex;
+}
+.Right_part{
+  height: 765px;
+  width: 1080px;
+  border: solid black 1px;
+}
+.left_part{
+  height: 765px;
+  width: 618px;
+  border: solid black 1px;
+}
+.bottom{
+  position: absolute;
+  left: 159px;
+  top: 1116px;
+  height: 853px;
+  width: 1687px;
+  border: solid black 1px;
+}

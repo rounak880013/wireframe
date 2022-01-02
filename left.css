@@ -1,0 +1,80 @@
+.Group_9842{
+    position: relative;
+    left: 36px;
+    top: 44px;
+    height: 55px;
+    width: 94px;
+    border: solid black 1px;
+}
+.Past_Activity{
+    position: relative;
+    left: 0px;
+    top: 0px;
+    height: 17px;
+    width:94px;
+    border: solid black 1px;
+}
+.list_4A{
+    position: relative;
+    left: 35px;
+    top: 386px;
+    height: 40px;
+    width: 289px;
+    border: solid black 1px;
+}
+.list_4B{
+    position: relative;
+    left: 35px;
+    top: 277px;
+    height: 40px;
+    width: 289px;
+    border: solid black 1px;
+}
+.list_4C{
+    position: relative;
+    left: 35px;
+    top: 179px;
+    height: 40px;
+    width: 289px;
+    border: solid black 1px;
+}
+.Line_127{
+    position: relative;
+    left: 49px;
+    top: 242px;
+    width: 1px;
+    height: 28px;
+    border: solid black 1px;
+}
+.Line_128{
+    position: relative;
+    left: 49px;
+    top: 342px;
+    width: 1px;
+    height: 28px;
+    border: solid black 1px;
+}
+.icon{
+    position: relative;
+    left: 0px;
+    top: 8px;
+    width: 31px;
+    height: 29px;
+    border: solid black 1px;
+}
+.text{
+    position: absolute;
+    left: 100px;
+    top: 0px;
+    width: 189px;
+    height: 21px;
+    border: solid black 1px;
+}
+.date{
+    position: absolute;
+    left: 100px;
+    top: 28px;
+    width: 78px;
+    height: 12px;
+    border: solid black 1px;
+}
